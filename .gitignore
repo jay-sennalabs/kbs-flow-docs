@@ -1,0 +1,15 @@
+docs/*
+flow-*.md
+node_modules/
+.DS_Store
+.env
+.env.*
+!.env.example
+dist/
+build/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+.vscode/
+.idea/
+*.local
